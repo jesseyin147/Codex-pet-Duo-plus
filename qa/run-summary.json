@@ -1,0 +1,23 @@
+{
+  "completedAt": "2026-09-11",
+  "petId": "duo-plus",
+  "displayName": "Duo Plus",
+  "spriteVersionNumber": 2,
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "width": 1536,
+    "height": 2288,
+    "format": "WEBP",
+    "mode": "RGBA"
+  },
+  "validation": {
+    "package": "pass",
+    "installedCopy": "pass",
+    "visualQa": "pass",
+    "directionSemantics": "pass"
+  },
+  "installedPath": "C:\\Users\\Jesse YIN\\.codex\\pets\\duo-plus",
+  "archivePath": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\package\\Duo-Plus.codex-pet.zip",
+  "originalPetModified": false
+}

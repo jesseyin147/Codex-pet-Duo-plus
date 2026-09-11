@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "visualQa": "pass",
+  "directionSemantics": "pass",
+  "repairRows": [],
+  "acceptedWarnings": [
+    "The 157.5 and 202.5 degree horizontal looks have subtle depth cues but remain coherent in sequence.",
+    "Small alpha holes are natural gaps between ear tufts and feet.",
+    "Two continuity-difference outliers do not produce a visible snap.",
+    "Review frame 00 is intentionally small because the successful-finish animation begins below the frame before popping up."
+  ],
+  "note": "All standard states preserve Duo's identity and requested meanings. Every direction frame is present, clean, and ordered correctly, with unmistakable cardinal directions."
+}

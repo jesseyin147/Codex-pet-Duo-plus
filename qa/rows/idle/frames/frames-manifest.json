@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\00.png",
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\01.png",
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\02.png",
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\03.png",
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\04.png",
+        "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\idle\\frames\\idle\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "ok": false,
+  "frames_root": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\failedailed\\frames",
+  "states": [
+    "failed"
+  ],
+  "errors": [
+    "expected 8 frame files for failed, found 0"
+  ],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 0,
+      "extraction_method": null,
+      "ok": false,
+      "errors": [
+        "expected 8 frame files for failed, found 0"
+      ],
+      "warnings": [],
+      "frames": []
+    }
+  ]
+}

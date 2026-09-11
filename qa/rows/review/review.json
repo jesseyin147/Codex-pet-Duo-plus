@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "frames_root": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames",
+  "states": [
+    "review"
+  ],
+  "errors": [],
+  "warnings": [
+    "review frame 00 is much smaller than the row median (5300 vs 19960)"
+  ],
+  "rows": [
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review frame 00 is much smaller than the row median (5300 vs 19960)"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 5300,
+          "bbox": [
+            5,
+            84,
+            187,
+            123
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 1,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14497,
+          "bbox": [
+            5,
+            59,
+            187,
+            148
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 2,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23200,
+          "bbox": [
+            5,
+            16,
+            187,
+            192
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 3,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20843,
+          "bbox": [
+            5,
+            20,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        },
+        {
+          "index": 4,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19077,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 5,
+          "file": "F:\\PolyU\\AY 26-27\\sem_1\\Duo pet\\duo-plus-v2\\qa\\rows\\review\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 26509,
+          "bbox": [
+            5,
+            8,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        }
+      ]
+    }
+  ]
+}

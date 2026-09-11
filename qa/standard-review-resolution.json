@@ -1,0 +1,7 @@
+{
+  "decision": "accept",
+  "state": "review",
+  "warning": "review frame 00 is much smaller than the row median",
+  "reason": "The user explicitly requested the successful-response animation to begin with Duo below the cell and pop upward as a surprise. Frame 00 intentionally shows only the ear tips; subsequent frames reveal the complete pet and passed extraction checks.",
+  "reviewed_by": "user"
+}
