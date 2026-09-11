@@ -42,15 +42,14 @@ An unofficial, fan-made Codex pet featuring Duo with livelier reactions, express
 
 ## Installation
 
-1. Download or clone this repository.
-2. Extract [`package/Duo-Plus.codex-pet.zip`](package/Duo-Plus.codex-pet.zip).
-3. Place the extracted files in:
+1. Download [`Duo-Plus-Install.zip`](package/Duo-Plus-Install.zip).
+2. Extract the archive directly into:
 
    ```text
-   %USERPROFILE%\.codex\pets\duo-plus
+   %USERPROFILE%\.codex\pets
    ```
 
-4. The installed directory should contain:
+3. The archive creates this ready-to-use directory:
 
    ```text
    duo-plus/
@@ -58,8 +57,10 @@ An unofficial, fan-made Codex pet featuring Duo with livelier reactions, express
    └── spritesheet.webp
    ```
 
-5. Restart Codex if it is already running.
-6. Open the pet selector and choose **Duo Plus**.
+4. Restart Codex if it is already running.
+5. Open the pet selector and choose **Duo Plus**.
+
+SHA-256 checksums are available in [`package/Duo-Plus-Install.zip.sha256`](package/Duo-Plus-Install.zip.sha256).
 
 ## Repository structure
 
